@@ -1,2 +1,4 @@
 yfinance
 plotly
+statsmodels
+numpy
